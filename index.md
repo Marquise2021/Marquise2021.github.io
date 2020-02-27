@@ -13,8 +13,8 @@ Syntax highlighted code block```
 
 
 # Flexibility
-- **Stretch** Everyday is the key _period_
-![my picture](IMG_1060.PNG)
+- **Stretch** Everyday is the key _period_<
+<img scr="IMG_1060.PNG">
 :sparkles: :fire:
 ## Energy
 - **Aerobic Fitness** is the key  _period_
