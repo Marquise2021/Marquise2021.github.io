@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to UIUC EFDT Majorette
 
 You can use the [editor on GitHub](https://github.com/Marquise2021/Marquise2021.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,10 +11,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
+# Flexibility
+- **Stretch** Everyday is the key _period_
+![my picture](IMG_1060.PNG)
+:sparkles: :fire:
+## Energy
+- **Aerobic Fitness** is the key  _period_
+   :runner:
+### Stunts 
+-  **Practice Comfortability** is the only way  so you won't be scared  _period_
+    :boom:
 - Bulleted
 - List
 
