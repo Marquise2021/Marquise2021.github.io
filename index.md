@@ -1,5 +1,5 @@
 ## Welcome to UIUC EFDT Majorette
-![Practice makes perfect!](IMG_1060.pNG)
+![Practice makes perfect!](IMG_1060.PNG)
 
 
 
