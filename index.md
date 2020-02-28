@@ -2,6 +2,8 @@
 ![Practice makes perfect](IMG_1060.PNG)
 
 
+email:linnearmarquise@yahoo.com
+
 
 # Flexibility
 - **Stretch** Everyday is the key _period_
