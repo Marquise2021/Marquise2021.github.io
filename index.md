@@ -1,5 +1,5 @@
 ## Welcome to UIUC EFDT Majorette
-❤
+![Practice makes perfect!](IMG_1060.pNG)
 
 
 
@@ -8,20 +8,11 @@
 ❤
 ## Energy
 - **Aerobic Fitness** is the key  _period_
-   :runner:
+   ❤
 ### Stunts 
 -  **Practice Comfortability** is the only way  so you won't be scared  _period_
-    :boom:
-- Bulleted
-- List
+    ❤
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link
-(url) and ![Image](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
